@@ -1,4 +1,4 @@
-# challenge_-Tekton
+# challenge
 
 Se solicita presentar el siguiente challenge:
 
